@@ -1,0 +1,50 @@
+body{
+    background-color: #C7FEFA;
+    font-family: 'GlacialIndifferenceRegular'; 
+    font-weight: normal; 
+    font-style: normal;
+    overflow-y: auto;
+}
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.title {
+    font-size: 3em;
+}
+.imageContainer{
+    width: 800px;
+    height: 500px;
+}
+#mainImage {
+    width: 800px;
+    height: 500px;
+    z-index: -1;
+}
+.buttons {
+    position: relative;
+    top: -250px;
+}
+.scrollButton {
+    border:none;
+    padding:8px 20px;
+    vertical-align: middle;
+    text-align:center;
+    color:#fff;
+    background-color:#000;
+}
+.leftButton {
+    position: absolute;
+    left:5%;
+    z-index: 1;
+}
+.rightButton {
+    position: absolute;
+    right:5%;
+    z-index: 1;
+}
+.about {
+    width: 800px;
+}
