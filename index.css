@@ -60,6 +60,9 @@ body{
         width: 100%;
         height: 80%;
     }
+    .buttons{
+        top: -100px;
+    }
     .about {
         width: 95%;
         margin-top: 0;
