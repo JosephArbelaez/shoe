@@ -1,8 +1,20 @@
 var imageArray = [
-    "https://shoewebsite.s3.us-east-2.amazonaws.com/IMG_0001.jpg",
-    "https://www.dw.com/image/47863948_303.jpg",
-    "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/rqofykdwrfhccjsa0m9c.jpg",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvP-JIxOAlpx002LA8--5dufoWGyg8IoyvgsJLGqG8G2N-WNrG"
+    "https://shoewebsite.s3.us-east-2.amazonaws.com/IMG_0001.jpg?versionId=null",
+    "https://shoewebsite.s3.us-east-2.amazonaws.com/IMG_1898.jpg?versionId=null",
+    "https://shoewebsite.s3.us-east-2.amazonaws.com/IMG_20191009_212000.jpg",
+    "https://shoewebsite.s3.us-east-2.amazonaws.com/IMG_20191016_191855.jpg",
+    "https://shoewebsite.s3.us-east-2.amazonaws.com/IMG_20191019_225445.jpg",
+    "https://shoewebsite.s3.us-east-2.amazonaws.com/IMG_20191027_232303.jpg",
+    "https://shoewebsite.s3.us-east-2.amazonaws.com/IMG_20191110_135151.jpg",
+    "https://shoewebsite.s3.us-east-2.amazonaws.com/IMG_20191115_000024.jpg",
+    "https://shoewebsite.s3.us-east-2.amazonaws.com/IMG_20191207_191057.jpg",
+    "https://shoewebsite.s3.us-east-2.amazonaws.com/IMG_20200119_173840_1~2.jpg",
+    "https://shoewebsite.s3.us-east-2.amazonaws.com/IMG_20200125_143059.jpg",
+    "https://shoewebsite.s3.us-east-2.amazonaws.com/IMG_20200125_143137.jpg",
+    "https://shoewebsite.s3.us-east-2.amazonaws.com/IMG_20200125_190817_1.jpg",
+    "https://shoewebsite.s3.us-east-2.amazonaws.com/IMG_20200125_224359.jpg",
+    "https://shoewebsite.s3.us-east-2.amazonaws.com/IMG_20200125_230242.jpg",
+    "https://shoewebsite.s3.us-east-2.amazonaws.com/IMG_20200202_143316.jpg"
 ];
 
 function getPosition(image) {
