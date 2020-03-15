@@ -19,8 +19,8 @@ body{
     height: 500px;
 }
 #mainImage {
-    width: 800px;
-    height: 500px;
+    width: 50%;
+    height: 40%;
     z-index: -1;
 }
 .buttons {
